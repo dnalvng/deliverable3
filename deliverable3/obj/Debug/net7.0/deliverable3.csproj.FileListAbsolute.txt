@@ -1,0 +1,15 @@
+/Users/denaelivingston/Projects/deliverable3/deliverable3/bin/Debug/net7.0/deliverable3
+/Users/denaelivingston/Projects/deliverable3/deliverable3/bin/Debug/net7.0/deliverable3.deps.json
+/Users/denaelivingston/Projects/deliverable3/deliverable3/bin/Debug/net7.0/deliverable3.runtimeconfig.json
+/Users/denaelivingston/Projects/deliverable3/deliverable3/bin/Debug/net7.0/deliverable3.dll
+/Users/denaelivingston/Projects/deliverable3/deliverable3/bin/Debug/net7.0/deliverable3.pdb
+/Users/denaelivingston/Projects/deliverable3/deliverable3/obj/Debug/net7.0/deliverable3.csproj.AssemblyReference.cache
+/Users/denaelivingston/Projects/deliverable3/deliverable3/obj/Debug/net7.0/deliverable3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denaelivingston/Projects/deliverable3/deliverable3/obj/Debug/net7.0/deliverable3.AssemblyInfoInputs.cache
+/Users/denaelivingston/Projects/deliverable3/deliverable3/obj/Debug/net7.0/deliverable3.AssemblyInfo.cs
+/Users/denaelivingston/Projects/deliverable3/deliverable3/obj/Debug/net7.0/deliverable3.csproj.CoreCompileInputs.cache
+/Users/denaelivingston/Projects/deliverable3/deliverable3/obj/Debug/net7.0/deliverable3.dll
+/Users/denaelivingston/Projects/deliverable3/deliverable3/obj/Debug/net7.0/refint/deliverable3.dll
+/Users/denaelivingston/Projects/deliverable3/deliverable3/obj/Debug/net7.0/deliverable3.pdb
+/Users/denaelivingston/Projects/deliverable3/deliverable3/obj/Debug/net7.0/deliverable3.genruntimeconfig.cache
+/Users/denaelivingston/Projects/deliverable3/deliverable3/obj/Debug/net7.0/ref/deliverable3.dll
